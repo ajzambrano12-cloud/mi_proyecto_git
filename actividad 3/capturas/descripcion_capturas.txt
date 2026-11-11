@@ -1,0 +1,21 @@
+============================================================
+REGISTRO Y DESCRIPCIÓN DE EVIDENCIAS - ACTIVIDAD 3
+Estudiante: Angeles Julieth Zambrano Bravo
+Asignatura: Fundamentos de Sistemas Web (NRC 36750)
+Repositorio: https://github.com/ajzambrano12-cloud/mi_proyecto_git
+============================================================
+
+- captura_1_configuracion_git.png:
+  Muestra la configuración global de identidad en Git mediante la verificación de los comandos 'user.name' (Angeles Zambrano) y 'user.email' (ajzambrano12@espe.edu.ec).
+
+- captura_2_inicializacion_repo.png:
+  Muestra la ejecución exitosa del comando 'git init' dentro de la carpeta mi_proyecto_git, creando el repositorio local en la rama principal.
+
+- captura_3_codigo_html.png:
+  Muestra el código fuente del archivo index.html con estructura semántica HTML5, encabezados y estilos integrados.
+
+- captura_4_historial_commits.png:
+  Muestra la salida de 'git log --oneline --graph' evidenciando los commits realizados: el commit inicial y el commit de modificación.
+
+- captura_5_repositorio_github.png:
+  Muestra la interfaz web en GitHub del repositorio público 'mi_proyecto_git' bajo el usuario 'ajzambrano12-cloud', con los archivos y commits sincronizados.
